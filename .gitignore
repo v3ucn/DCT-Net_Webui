@@ -4,5 +4,6 @@
 *__pycache__
 *.spec
 *.bin
+/assets
 /py39
 /damo
